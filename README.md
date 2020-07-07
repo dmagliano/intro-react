@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-###Intro-React
+### Intro-React
 
 Exercício de introdução ao React por Fábio Vedovelli
 https://www.youtube.com/watch?v=SeLLxD3ibbU
